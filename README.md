@@ -1,3 +1,3 @@
 # DQLab Peojects (Python)
-DQLab Projects (academy data science)
+DQLab Projects (Data Science Academy)
 https://academy.dqlab.id/
